@@ -21,3 +21,5 @@ console.log(`Difference: ${difference}`);
 console.log(`Product: ${product}`);
 console.log(`Quotient: ${quotient}`);
 console.log(`Remainder: ${remainder}`);
+console.log(`Increment: ${++a}`);
+console.log(`Decrement: ${--b}`); 
